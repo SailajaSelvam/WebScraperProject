@@ -14,19 +14,15 @@ It’s a practical example of applying computer networks concepts, such as "HTTP
   - [Example Domain](http://example.com) – extracts headings, paragraphs, and links.
 - Demonstrates **HTTP requests and responses** using Jsoup.
 - Handles multiple pages (pagination) for quotes and books.
-- Saves scraped data to **CSV files** (`quotes.csv` and `books.csv`).
-- Console output with **colored highlights** for better readability.
+- Saves scraped data to "CSV files" (`quotes.csv` and `books.csv`).
+- Console output with "colored highlights" for better readability.
 - Configurable number of items to scrape.
 
 ---
 
 ## Project Structure
-WebScraperProject/
-├── src/
-│ └── webscraper/
-│ └── MultiWebsiteScraper.java
-├── quotes.csv # Output file for quotes
-├── books.csv # Output file for books
+<img width="295" height="126" alt="image" src="https://github.com/user-attachments/assets/89e0ea47-e23c-4fcc-9832-bbf1e1790792" />
+
 
 ---
 
@@ -40,6 +36,7 @@ Download from "https://jsoup.org/download"
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/WebScraperProject.git
+
 
 
 Author
