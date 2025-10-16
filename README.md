@@ -38,13 +38,8 @@ Download from "https://jsoup.org/download"
 git clone https://github.com/yourusername/WebScraperProject.git
 
 
+<img width="413" height="126" alt="image" src="https://github.com/user-attachments/assets/00ac91e2-6d44-4be9-834a-d45e7a087766" />
 
-Author
-Sailaja S
-Computer Networks Project
-
-License :
-This project is licensed under the MIT License.
 
 
 
