@@ -33,9 +33,15 @@ Download from "https://jsoup.org/download"
 
 
 ## How to Run
-1. Clone the repository:
-```bash
+1. Clone the repository 
 git clone https://github.com/yourusername/WebScraperProject.git
+
+## Author
+Sailaja S
+
+## MIT LICENSE
+
+
 
 
 
